@@ -15,6 +15,7 @@ const Layout = ({ children, data }) => (
       ]}
     />
     
+    <Header></Header>
       {children()}
     
   </div>
